@@ -48,6 +48,11 @@
                     </Grid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
+            <CollectionView.EmptyView>
+                <StackLayout Padding="100">
+                    <Label Text="No data" />
+                </StackLayout>
+            </CollectionView.EmptyView>
         </CollectionView>
 
         <Button Text="Get Monkeys"
