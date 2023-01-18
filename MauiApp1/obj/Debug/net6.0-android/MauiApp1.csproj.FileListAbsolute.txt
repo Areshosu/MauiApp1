@@ -946,8 +946,10 @@ C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\lp\149\jl
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\lp\151\jl\files.cache
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\lp\153\jl\files.cache
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\lp\155\jl\files.cache
-C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\mscorlib.dll
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\Newtonsoft.Json.dll
+C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.dll
+C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.pdb
+C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\mscorlib.dll
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Collections.Concurrent.dll
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Data.dll
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\System.dll
@@ -955,5 +957,3 @@ C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\a
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Private.Uri.dll
 C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\System.Xml.dll
-C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.dll
-C:\Users\sphal\source\repos\MauiApp1\MauiApp1\obj\Debug\net6.0-android\android\assets\CommunityToolkit.Mvvm.pdb

@@ -63,7 +63,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.1.0-preview3, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -115,7 +115,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.1.0-preview3, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -172,7 +172,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.1.0-preview3, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -230,7 +230,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.1.0-preview3, )"
+              "version": "[8.1.0, )"
             },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
@@ -315,7 +315,7 @@
         "android-x86": {
           "#import": []
         },
-        "iossimulator-x64": {
+        "ios-arm64": {
           "#import": []
         },
         "maccatalyst-x64": {

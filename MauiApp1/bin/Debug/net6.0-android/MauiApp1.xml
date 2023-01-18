@@ -10,5 +10,32 @@
         <member name="P:MauiApp1.ViewModel.BaseViewModel.Title">
             <inheritdoc cref="F:MauiApp1.ViewModel.BaseViewModel.title"/>
         </member>
+        <member name="P:MauiApp1.ViewModel.MonkeyDetailViewModel.Monkey">
+            <inheritdoc cref="F:MauiApp1.ViewModel.MonkeyDetailViewModel.monkey"/>
+        </member>
+        <member name="F:MauiApp1.ViewModel.MonkeyDetailViewModel.openMapCommand">
+            <summary>The backing field for <see cref="P:MauiApp1.ViewModel.MonkeyDetailViewModel.OpenMapCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp1.ViewModel.MonkeyDetailViewModel.OpenMapCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp1.ViewModel.MonkeyDetailViewModel.OpenMapAsync"/>.</summary>
+        </member>
+        <member name="F:MauiApp1.ViewModel.MonkeysViewModel.getClosestMonkeyCommand">
+            <summary>The backing field for <see cref="P:MauiApp1.ViewModel.MonkeysViewModel.GetClosestMonkeyCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp1.ViewModel.MonkeysViewModel.GetClosestMonkeyCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp1.ViewModel.MonkeysViewModel.GetClosestMonkeyAsync"/>.</summary>
+        </member>
+        <member name="F:MauiApp1.ViewModel.MonkeysViewModel.getMonkeysCommand">
+            <summary>The backing field for <see cref="P:MauiApp1.ViewModel.MonkeysViewModel.GetMonkeysCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp1.ViewModel.MonkeysViewModel.GetMonkeysCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp1.ViewModel.MonkeysViewModel.GetMonkeysAsync"/>.</summary>
+        </member>
+        <member name="F:MauiApp1.ViewModel.MonkeysViewModel.goToDetailsCommand">
+            <summary>The backing field for <see cref="P:MauiApp1.ViewModel.MonkeysViewModel.GoToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp1.ViewModel.MonkeysViewModel.GoToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiApp1.ViewModel.MonkeysViewModel.GoToDetailsAsync(MauiApp1.Models.Monkey)"/>.</summary>
+        </member>
     </members>
 </doc>

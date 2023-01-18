@@ -23,6 +23,10 @@
                         <Frame HeightRequest="125"
                                Padding="0"
                                Style="{StaticResource CardView}">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer CommandParameter="{Binding .}"
+                                                      Command="{Binding Source={RelativeSource AncestorType={p:Type viewmodel:MonkeysViewModel}}, Path=GoToDetailsCommand}" />
+                            </Frame.GestureRecognizers>
                             <Grid Padding="0"
                                   ColumnDefinitions="125,*">
                                 <Image Aspect="AspectFill"
@@ -51,6 +55,14 @@
                 Command="{Binding GetMonkeysCommand}"
                 IsEnabled="{Binding IsNotBusy}"
                 Grid.Row="1"
+                Margin="8"></Button>
+
+        <Button Text="Find Closest Monkeys"
+                Style="{StaticResource ButtonOutline}"
+                Command="{Binding GetClosestMonkeyCommand}"
+                IsEnabled="{Binding IsNotBusy}"
+                Grid.Row="1"
+                Grid.Column="1"
                 Margin="8"></Button>
 
         <ActivityIndicator IsVisible="{Binding IsBusy}"

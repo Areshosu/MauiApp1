@@ -27,6 +27,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/sphal/source/repos/MauiApp1/MauiApp1/Pages/DetailMonkeyPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.DetailMonkeyPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DetailMonkeyPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DetailMonkeyPage.xaml
+
 [C:/Users/sphal/source/repos/MauiApp1/MauiApp1/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml

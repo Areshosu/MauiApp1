@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hZBuDcxH59Fvv+csOb3VYeZ6Uoj60tJhtLcBX5PcjjgZDNRc/QoQ8OkP1B7SS+qSBRw7VeF9GCbrtDfZpCCRgg==",
+  "dgSpecHash": "tqi+8iqzHn3qC99dbRxTMHLEXQ/UBZbuDW7KT866SD0Ez6lsj0kBh3YLYntaxk5T3Bb/ulm/eP0VAtB1+fuxUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sphal\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sphal\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0-preview3\\communitytoolkit.mvvm.8.1.0-preview3.nupkg.sha512",
+    "C:\\Users\\sphal\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "C:\\Users\\sphal\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\sphal\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\sphal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
